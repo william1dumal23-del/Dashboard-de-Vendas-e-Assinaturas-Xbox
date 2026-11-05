@@ -1,8 +1,6 @@
 Dashboard de Vendas e Assinaturas Xbox
 Objetivo
 Construir um dashboard no Microsoft Excel para transformar a base de assinaturas Xbox em informações visuais e indicadores gerenciais, facilitando a análise dos planos, receitas informadas, renovação automática, periodicidade de contratação e adesão a serviços adicionais.
-Base utilizada
-A base fornecida está na aba B̳ases do arquivo Excel. São 295 registros de assinaturas, com datas de início de janeiro a dezembro de 2024. O projeto preserva as abas originais A̳ssets, B̳ases e C̳álculos, utilizando exclusivamente a aba D̳ashboard para os indicadores, tabelas-resumo e gráficos.
 Indicadores apresentados
 - Quantidade total de assinaturas.
 - Soma dos valores da coluna Total Value.
