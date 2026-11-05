@@ -8,24 +8,6 @@ A partir de uma base de dados com registros de assinaturas, foi desenvolvido um 
 
 A proposta foi reunir essas informações em uma única visão, facilitando a identificação de padrões e a comparação dos resultados.
 
-## Análise dos dados
-
-A base utilizada contém 295 registros de assinaturas, distribuídos entre os planos Core, Standard e Ultimate, com informações referentes ao ano de 2024.
-
-Durante a análise, foram considerados indicadores relacionados ao volume de assinaturas, valores comercializados, receita média e participação dos diferentes planos.
-
-Também foram exploradas informações sobre renovação automática, adesão a serviços adicionais e evolução mensal, permitindo observar diferentes aspectos do desempenho comercial.
-
-O dashboard foi estruturado para apresentar essas informações visualmente, utilizando gráficos, indicadores e resumos que facilitam a interpretação dos dados.
-
-## Principais resultados
-
-A análise identificou 295 assinaturas, com um valor total registrado de 7.633 e média de aproximadamente 25,87 por assinatura.
-
-Outro indicador observado foi a renovação automática, presente em aproximadamente 50,2% dos registros.
-
-Essas informações permitem compreender melhor a composição da base de assinantes e servem como referência para análises sobre distribuição de receita, características dos planos e comportamento de contratação.
-
 ## Desenvolvimento
 
 O projeto foi desenvolvido inteiramente no Microsoft Excel, aproveitando a estrutura original da base de dados.
@@ -42,4 +24,10 @@ O desenvolvimento envolveu o uso do Microsoft Excel, fórmulas, organização de
 
 Além dos recursos técnicos, o projeto permitiu aplicar conceitos de análise exploratória de dados e apresentação de resultados voltados ao acompanhamento comercial.
 
-## Consider
+Considerações finais
+
+O dashboard demonstra como uma base de dados pode ser transformada em uma ferramenta de análise capaz de facilitar o acompanhamento de indicadores e apoiar a tomada de decisões.
+
+A centralização das informações proporciona uma visão mais organizada do desempenho das assinaturas, permitindo identificar tendências, comparar resultados e compreender melhor os dados disponíveis.
+
+Este projeto integra meu portfólio de análise de dados, representando a aplicação prática de conhecimentos em Excel, análise de indicadores e visualização de informações.
