@@ -30,4 +30,3 @@ O dashboard demonstra como uma base de dados pode ser transformada em uma ferram
 
 A centralização das informações proporciona uma visão mais organizada do desempenho das assinaturas, permitindo identificar tendências, comparar resultados e compreender melhor os dados disponíveis.
 
-Este projeto integra meu portfólio de análise de dados, representando a aplicação prática de conhecimentos em Excel, análise de indicadores e visualização de informações.
